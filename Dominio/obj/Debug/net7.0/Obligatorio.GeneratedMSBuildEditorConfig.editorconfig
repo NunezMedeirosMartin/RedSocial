@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Obligatorio
+build_property.ProjectDir = C:\Users\nunez\Documents\MARTIN\FACULTAD\SEMESTRE 2\Programación 2\OBLIGATORIO2 P2 ENTREGA\Obligatorio_P2_23_11_2023_1420\Obligatorio_P2_22_11_2023_0005\Obligatorio\Dominio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

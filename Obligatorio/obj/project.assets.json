@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Obligatorio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Obligatorio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Obligatorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obligatorio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Obligatorio.csproj",
+      "msbuildProject": "../Dominio/Obligatorio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Obligatorio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nunez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nunez\\Documents\\MARTIN\\FACULTAD\\SEMESTRE 2\\Programación 2\\OBLIGATORIO2 P2 ENTREGA\\Obligatorio_P2_23_11_2023_1420\\Obligatorio_P2_22_11_2023_0005\\Obligatorio\\Obligatorio\\UI.csproj",
+      "projectName": "UI",
+      "projectPath": "C:\\Users\\nunez\\Documents\\MARTIN\\FACULTAD\\SEMESTRE 2\\Programación 2\\OBLIGATORIO2 P2 ENTREGA\\Obligatorio_P2_23_11_2023_1420\\Obligatorio_P2_22_11_2023_0005\\Obligatorio\\Obligatorio\\UI.csproj",
+      "packagesPath": "C:\\Users\\nunez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nunez\\Documents\\MARTIN\\FACULTAD\\SEMESTRE 2\\Programación 2\\OBLIGATORIO2 P2 ENTREGA\\Obligatorio_P2_23_11_2023_1420\\Obligatorio_P2_22_11_2023_0005\\Obligatorio\\Obligatorio\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nunez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\nunez\\Documents\\MARTIN\\FACULTAD\\SEMESTRE 2\\Programación 2\\OBLIGATORIO2 P2 ENTREGA\\Obligatorio_P2_23_11_2023_1420\\Obligatorio_P2_22_11_2023_0005\\Obligatorio\\Dominio\\Obligatorio.csproj": {
+              "projectPath": "C:\\Users\\nunez\\Documents\\MARTIN\\FACULTAD\\SEMESTRE 2\\Programación 2\\OBLIGATORIO2 P2 ENTREGA\\Obligatorio_P2_23_11_2023_1420\\Obligatorio_P2_22_11_2023_0005\\Obligatorio\\Dominio\\Obligatorio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

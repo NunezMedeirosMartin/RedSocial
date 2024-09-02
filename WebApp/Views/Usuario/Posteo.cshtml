@@ -1,0 +1,38 @@
+﻿@model Obligatorio.Post
+<h1>Realizar posteo</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Posteo" enctype="multipart/form-data">
+            <div class="form-group">
+                <label  class="control-label">Titulo</label>
+                <input asp-for="@Model.Titulo" class="form-control" />
+   
+            </div>
+            <div class="form-group">
+                <label class="control-label">Texto</label>
+                <input asp-for="@Model.Texto" class="form-control" />
+
+            </div>
+           
+            <div class="form-group">
+                <label for="publicoSelect">¿Público?</label>
+                <select class="form-control" id="publicoSelect" name="publico">
+                    <option value="si">Sí</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="imagenInput">Seleccionar archivo:</label>
+                <input type="file" class="form-control-file" id="imagenInput" name="imagen" accept="image/*">
+                <small id="imagenHelp" class="form-text text-muted">Formatos de imagen admitidos: JPG, PNG, GIF, etc.</small>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Realizar publicacion" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

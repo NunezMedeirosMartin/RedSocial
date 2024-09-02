@@ -1,0 +1,44 @@
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Dominio\obj\Debug\net7.0\ref\Dominio.dll

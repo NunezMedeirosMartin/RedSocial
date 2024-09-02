@@ -1,0 +1,14 @@
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.exe
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.deps.json
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.runtimeconfig.json
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.pdb
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.AssemblyInfo.cs
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\Obligatorio.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.pdb
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.genruntimeconfig.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\Obligatorio.dll

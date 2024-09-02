@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Obligatorio.Publicacion>
+
+<h1>Publicaciones</h1>
+<hr />
+
+@foreach (var p in Model)
+{
+
+
+    
+
+    <table style="width:100%" class="table table-striped">
+
+        <thead>       
+            <tr>
+                
+                <th>Titulo</th>
+                <th>Texto</th>
+                <th>Autor</th>
+                <th>Fecha</th>
+            </tr>
+        </thead>
+        <tr>
+
+        <tbody>
+        
+        <td> <span> @p.Titulo  </span></td>
+        <td> <span> @p.Texto  </span></td>
+        <td> <span> @p.Autor  </span></td>
+        <td> <span> @p.Fecha  </span><input type="hidden" name="id" value="@p.Id" /></td>
+        
+      
+        
+        <td> <span> <a class="btn" href="@Url.Action("Like", "Usuario", new {id=p.Id})">Like @p.CantidadLike()</a> </span></td>
+        <td> <span> <a class="btn" href="@Url.Action("Dislike", "Usuario", new {id=p.Id})">Dislike  @p.CantidadDislike()</a> </span></td>
+        </tbody>
+        </tr>
+    </table>
+    @if (ViewBag.Mensaje != null)
+    {
+        @ViewBag.Mensaje
+    }
+    <div style="margin-top:50px"></div>
+
+    
+    
+    <hr />
+
+
+
+
+    <div style="margin-top:50px"></div>
+
+
+
+}

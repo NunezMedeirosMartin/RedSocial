@@ -1,0 +1,46 @@
+﻿
+@model IEnumerable<Obligatorio.Post>
+
+    <h1>Publicaciones</h1>
+    <br></br>
+
+@foreach (var p in Model)
+{
+
+
+    <table style="width:100%" class="table-responsive">
+        <tr>
+            <td><img style="width:100%" src="~/img/@p.Imagen"></td>
+
+        </tr>
+        <tr>
+            <td> <span>@p.Imagen  </span></td>
+            <td> <span>Title: @p.Titulo  </span></td>
+            <td> <span>Username: @p.Autor  </span></td>
+            <td> <span>Text: @p.Texto  </span></td>
+            <td> <span>Date: @p.Fecha  </span></td>
+
+        </tr>
+        <tr>
+            <td>
+                <table style="width:100%" class="table table-bordered">
+                    <label>Comentarios</label>
+                @foreach (var c in p.GetComentarios())
+                {
+                 
+                        <tr>
+                            <td>  <span>Title: @c.Titulo</span></td>
+                            <td>  <span>Text: @c.Texto</span></td>
+                            <td>  <span>Date: @c.Fecha.ToString("MM/dd/yyyy")</span></td>
+                            <td>  <span>Username: @c.Autor</span></td>
+                        </tr>
+  
+                }
+                   
+                </table>
+            </td>
+
+        </tr>
+    </table>
+    <div style="margin-top:50px"></div>
+    }

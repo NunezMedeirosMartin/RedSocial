@@ -1,0 +1,90 @@
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.exe
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.deps.json
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.runtimeconfig.json
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.pdb
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfoInputs.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfo.cs
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\UI.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.pdb
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.genruntimeconfig.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\UI.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.dll
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.AssemblyReference.cache
+C:\Users\59892\Desktop\Practicando para prueba\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CopyComplete
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.exe
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.deps.json
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.runtimeconfig.json
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.pdb
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.AssemblyReference.cache
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfoInputs.cache
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfo.cs
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CopyComplete
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\UI.dll
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.pdb
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.genruntimeconfig.cache
+C:\Users\nunez\Documents\MARTIN\Obli Ultimo\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\UI.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.exe
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.deps.json
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.runtimeconfig.json
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.pdb
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.AssemblyReference.cache
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfoInputs.cache
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfo.cs
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CopyComplete
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\UI.dll
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.pdb
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.genruntimeconfig.cache
+C:\Users\nunez\Documents\ULTIMO\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\UI.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.exe
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.deps.json
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.runtimeconfig.json
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.pdb
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.AssemblyReference.cache
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfoInputs.cache
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfo.cs
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CopyComplete
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\UI.dll
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.pdb
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.genruntimeconfig.cache
+C:\Users\nunez\Documents\Obligatorio 2\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\UI.dll
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.exe
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.deps.json
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.runtimeconfig.json
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.dll
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\bin\Debug\net7.0\UI.pdb
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.dll
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.pdb
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.AssemblyReference.cache
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfoInputs.cache
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.AssemblyInfo.cs
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.csproj.CopyComplete
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.dll
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\UI.dll
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.pdb
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\UI.genruntimeconfig.cache
+C:\Users\nunez\OneDrive\Documentos\Obligatorio\Obligatorio_P2_08_11_2023_1053\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\UI.dll

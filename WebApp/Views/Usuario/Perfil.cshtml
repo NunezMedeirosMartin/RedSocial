@@ -1,0 +1,106 @@
+﻿@model IEnumerable<Obligatorio.Post>
+
+<h1>Publicaciones</h1>
+<hr />
+<form asp-action="Buscar"><input type="text" placeholder="texto" name="texto"> <input type="number" placeholder="numero" name="numero"><input type="submit" value="entrar"></form>
+@foreach (var p in Model)
+{
+
+
+    <img style="width:100%" src="~/img/@p.Imagen">
+     <span>@p.Imagen  </span>
+    
+    <table style="width:100%" class="table table-striped">
+        
+        <thead>
+            <tr>
+                <th>Usuario</th>
+                <th>Titulo</th>
+                <th>Texto</th>
+                <th>Fecha</th>
+            </tr>
+        </thead>
+        <tr>
+            
+            <tbody>
+                <td><span> @p.Autor  </span></td>
+                <td> <span> @p.Titulo  </span></td>
+                <td> <span> @p.Texto  </span></td>
+                <td> <span> @p.Fecha  </span><input type="hidden" name="id" value="@p.Id" /></td>
+                <form asp-action="Comentar" asp-controller="Usuario" >
+        <td> <input type="hidden" name="id" value="@p.Id">
+        <input type="text" name="titulo" placeholder="Titulo">
+        <input type="text" name="texto" placeholder="Texto" >
+             <input type="submit" value="Comentar"> </td>
+        </form>
+                <td> <span> <a class="btn" href="@Url.Action("Like", "Usuario", new {id=p.Id})">Like @p.CantidadLike() </a> </span></td>
+        <td> <span> <a class="btn" href="@Url.Action("Dislike", "Usuario", new {id=p.Id})">Dislike  @p.CantidadDislike() VA: @p.CalcularVA()</a> </span></td>
+            </tbody>
+        </tr>
+     </table>
+    @if (ViewBag.Mensaje!=null)
+    {
+        @ViewBag.Mensaje
+    }
+    <div style="margin-top:50px"></div>
+
+        <h3>Comentarios:</h3>
+            
+                <table style="width:100%" class="table table-striped">
+                    
+                    
+                        <thead>
+                            <tr>
+                                <th>Usuario</th>
+                                <th>Titulo</th>
+                                <th>Texto</th>
+                                <th>Fecha</th>
+                            </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in p.GetComentarios())
+                {
+                       
+                        <tr> 
+                            
+                            <td>  <span> @c.Autor</span></td>
+                            <td>  <span> @c.Titulo</span></td>
+                            <td>  <span> @c.Texto</span></td>
+                            <td>  <span> @c.Fecha.ToString("MM/dd/yyyy")</span></td>
+                            
+                            <td> <span> <a class="btn" href="@Url.Action("Like", "Usuario", new {id=c.Id})">Like  @c.CantidadLike()  </a> </span></td>
+                            <td> <span> <a class="btn" href="@Url.Action("Dislike", "Usuario", new {id=c.Id})">Dislike @c.CantidadDislike() VA: @c.CalcularVA()</a> </span></td>
+                        </tr>
+                       
+
+                    }
+            </tbody>
+                </table>
+            <hr />
+            
+
+       
+    
+    <div style="margin-top:50px"></div>
+
+
+   
+}
+@section Scripts{
+
+    <script>
+        $(document).scroll(function () {
+            localStorage['page'] = document.URL;
+            localStorage['scrollTop'] = $(document).scrollTop();
+        });
+
+        $(document).ready(function () {
+            if (localStorage['page'] == document.URL) {
+                $(document).scrollTop(localStorage['scrollTop']);
+            }
+        });
+
+    </script>
+}
+
+ 
